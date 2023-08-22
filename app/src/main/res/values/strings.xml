@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MotionSenseUnlocker</string>
+    <string name="xposed_description">Disabling country and application white list in MotionSense on you Pixel 4/4XL.</string>
+</resources>
